@@ -15,6 +15,11 @@
     <description>
         web端
     </description>
+    <modules>
+        <module>changgou-web-search</module>
+        <module>changgou-web-item</module>
+        <module>changgou-web-page</module>
+    </modules>
 
 
 </project>

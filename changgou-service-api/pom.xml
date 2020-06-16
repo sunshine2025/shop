@@ -17,6 +17,10 @@
     </description>
     <modules>
         <module>changgou-service-goods-api</module>
+        <module>changgou-service-search-api</module>
+        <module>changgou-service-seckill-api</module>
+        <module>changgou-service-user-api</module>
+        <module>changgou-service-order-api</module>
     </modules>
 
 
@@ -35,4 +39,5 @@
             <scope>compile</scope>
         </dependency>
     </dependencies>
+
 </project>
